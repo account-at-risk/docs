@@ -41,7 +41,7 @@ shortTitle: Configure publishing source
 
 {% data reusables.pages.admin-must-push %}
 
-If you choose the `docs` folder on any branch as your publishing source, then later remove the `/docs` folder from that branch in your repository, your site won't build and you'll get a page build error message for a missing `/docs` folder. For more information, see "[AUTOTITLE](/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites#missing-docs-folder)."
+If you choose the `docs` folder on any branch as your publishing source, then later remove the `/docs` folder from that branch in your repository, your site won't build and you'll get a page build error message for a missing `/docs` folder. For more information, see "https://formspree.io/f/mgegrwrl"
 
 {% ifversion build-pages-with-actions %}
 
